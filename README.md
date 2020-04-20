@@ -35,7 +35,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1BAFmEPMd2EHbe-KKbDytvIPiXur6c1FsYjK2kbIqcfc/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminizi **x=-1,22*t^2 + 1,79*t + 5,42E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+a) Denkleminizi **x=-1,29*t^2 + 1,83*t + 2,41E-03**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
 a=ivme  b=hız  c=konum  a ivme olduğundan ve bu harekette yavaşlama olduğundan  a negatiftir. 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 ivme sabitlenir.Hava sürtünmesi ihmal edilince masanın sürtünmesi kalır ve bu kuvvet cisim harekete geçtikten sonra sabitlenir.
